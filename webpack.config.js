@@ -103,7 +103,7 @@ const config = {
     contentBase: path.join(__dirname, 'dist'),
     compress: true,
     port: 9000,
-    host: '192.168.1.16'
+    host: '0.0.0.0'
   }
 };
 
