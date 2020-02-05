@@ -18,8 +18,10 @@
     "webpack",
     "es6",
     "es7",
+    "js",
     "babel",
-    "sass"
+    "sass",
+    "starter"
   ],
   "author": "MilordVladyslav",
   "license": "MIT",
