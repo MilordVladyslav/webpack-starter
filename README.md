@@ -10,5 +10,17 @@ see features:
 * lodash
 * minimization
 * hot reload
+* local server
+* file's bundle
 
+commands:
+
+* Start development process
+```
+npm run dev
+```
+* Build project
+```
+npm run build
+```
 
