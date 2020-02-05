@@ -1,6 +1,9 @@
 ## Webpack starter
+
 Unbounded from different frameworks and already used in production. See description below.
+
 see features:
+
 * babel,
 * autoprefixer,
 * sass
@@ -8,8 +11,10 @@ see features:
 * minimization
 * hot reload
 * local server
-* file’s bundle
+* file's bundle
+
 commands:
+
 * Start development process
 ```
 npm run dev
