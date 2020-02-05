@@ -4,5 +4,11 @@ unbounded from different frameworks and already used in production. You can get 
 
 see features:
 
-* hello
-* world
+* babel,
+* autoprefixer,
+* sass
+* lodash
+* minimization
+* hot reload
+
+
