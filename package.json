@@ -17,6 +17,7 @@
   "keywords": [
     "webpack",
     "es6",
+    "hot reload",
     "es7",
     "js",
     "babel",
