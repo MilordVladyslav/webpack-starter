@@ -21,12 +21,8 @@
     "babel",
     "sass"
   ],
-  "author": "LeeSwagger",
+  "author": "MilordVladyslav",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LeeSwagger/webpack-starter/issues"
-  },
-  "homepage": "https://github.com/LeeSwagger/webpack-starter#readme",
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.4.4",
