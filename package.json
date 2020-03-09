@@ -54,6 +54,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "graphql-request": "^1.8.2",
     "lodash": "^4.17.11"
   }
 }
