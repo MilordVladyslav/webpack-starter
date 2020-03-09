@@ -6,11 +6,11 @@ see features:
 
 * babel,
 * autoprefixer,
-* sass
-* lodash
-* minimization
-* hot reload
-* local server
+* sass,
+* lodash,
+* minimization,
+* hot reload,
+* local server,
 * file's bundle
 
 commands:

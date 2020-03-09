@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeeSwagger/webpack-starter.git"
+    "url": "git+https://github.com/MilordVladyslav/webpack-starter.git"
   },
   "keywords": [
     "webpack",
